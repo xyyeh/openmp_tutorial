@@ -1,0 +1,8 @@
+build/
+install/
+bin/
+config.h
+doc/html
+*.pb.h
+*.pb.cc
+.vscode
